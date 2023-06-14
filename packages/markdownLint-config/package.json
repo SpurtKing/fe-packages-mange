@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "node ./__tests__/markdownLint-config.test.js"
-  }
+  },
+  "gitHead": "f8daa677eb4689abd03837ec9d1bc01f611468f5"
 }
