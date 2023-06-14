@@ -1,0 +1,29 @@
+{
+  "name": "demo1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "JinYan <you@example.com>",
+  "homepage": "https://github.com/SpurtKing/fe-packages-mange#readme",
+  "license": "ISC",
+  "main": "lib/demo1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpurtKing/fe-packages-mange.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/demo1.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/SpurtKing/fe-packages-mange/issues"
+  }
+}
