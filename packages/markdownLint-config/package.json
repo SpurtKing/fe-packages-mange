@@ -19,5 +19,5 @@
   "scripts": {
     "test": "node ./__tests__/markdownLint-config.test.js"
   },
-  "gitHead": "f8daa677eb4689abd03837ec9d1bc01f611468f5"
+  "gitHead": "1e7a8f82a16905b7ab0266b55c686fb1582c3b7b"
 }
